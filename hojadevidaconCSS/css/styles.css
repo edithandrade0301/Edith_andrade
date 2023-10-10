@@ -1,0 +1,314 @@
+body{
+    margin: 0;
+    padding:0;
+    background-image: url(/img/fondo.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: medium;
+
+}
+
+
+.center
+{
+
+    background: linear-gradient(to bottom, #fccfff, #fda2ef);
+padding: 10px;
+position: absolute;
+left: 30pc;
+
+
+}
+
+.caja1{
+    background-color: rgb(247, 162, 238);
+    text-align: right;
+    padding: 100px;
+    width: 35pc;
+
+
+
+}
+
+
+.caja2{
+    background-color: rgb(255, 216, 252);
+    text-align: right;
+    position: absolute;
+    height: 54.2pc;
+    width: 22pc;
+    left: 3%;
+    top: 7%;
+}
+
+.img2{
+text-align: center;
+padding: 15px;
+
+}
+
+.img1{ 
+    background-color: rgb(231, 204, 235);
+padding: 10px;
+border-radius: 50%;
+text-align: center;
+
+
+}
+
+.caja3{
+    padding: 10px;
+    text-align: center;
+    
+    
+    
+    }
+    .cajita1-3{
+        background-color: rgb(231, 182, 227);
+        border-radius: 20px;
+        text-align: left;
+        height: 30px;
+        padding: 5px;
+        width: 150px;
+        
+       
+        
+    }
+    .d
+    {
+       position: absolute;
+       left: 130px;
+       top: 250px;
+        
+    
+    }
+    .caja3-1{
+    padding-left: 70px;
+    
+    }
+
+    .caja4{
+        background-color: rgb(255, 216, 252);
+        text-align: left;
+        padding: 10px;
+        width: 358px;
+        position: relative;
+        left: 50%;
+    
+    }
+
+
+    .cajita1-4{
+        background-color: rgb(231, 182, 227);
+        border-radius: 20px;
+        text-align: left;
+        height: 30px;
+        padding: 5px;
+        width: 340px;
+       
+        
+       
+        
+    }
+    .ex
+    {
+       position: absolute;
+       left: 50px;
+       bottom: 89.5%;
+      
+        
+    
+    }
+    .caja4-1{
+    padding-left: 5px;
+    
+    }
+
+
+    .caja5{
+        padding: 10px;
+        
+        position: relative;
+        
+        
+        }
+        
+        
+        .caja5-1{
+        text-align: center;
+        padding: 10px;
+        background-color: rgb(255, 216, 252);
+        float: left;
+        width: 350px;
+        
+        }
+        
+        .caja5-2{
+        padding: 10px;
+        background-color: rgb(255, 216, 252);
+        float: left;
+        height: 222px;
+        width: 350px;
+        text-align: center;
+        
+        }
+        
+        
+        
+        .caja5-1-1{
+                background-color: rgb(231, 182, 227);
+                border-radius: 20px;
+                text-align: left;
+                height: 30px;
+                padding: 5px;
+                width: 310px;
+                
+               
+                
+               
+                
+            }
+            .ha
+            {
+               position: absolute;
+               left: 75px;
+               top: 40%;
+              
+                
+            
+            }
+        
+            .cajita5{
+                padding-left: 15px;
+            }
+            
+            
+        
+        
+        
+            .caja5-1-2{
+                background-color: rgb(231, 182, 227);
+                border-radius: 20px;
+                text-align: left;
+                height: 30px;
+                padding: 5px;
+                width: 200px;
+                
+               
+                
+               
+                
+            }
+            .int
+            {
+               position: absolute;
+               left: 66%;
+               top: 40%;
+         
+            }
+        
+            .cajita5-2{
+                padding-left: 70px;
+            }
+            .IN{
+                position: absolute;
+                top: 106px;
+                left: 200px;
+                }
+                
+                
+                .IN2{
+                position: absolute;
+                top: 129px;
+                left: 200px;
+                }
+                .IN3{
+                position: absolute;
+                top: 153px;
+                left: 200px;
+                }
+                
+                .IN4{
+                position: absolute;
+                top: 175px;
+                left: 200px;
+                }
+                
+                .BA{
+                position: absolute;
+                top: 200px;
+                left: 200px;
+                }
+                
+                
+                .BA2{
+                position: absolute;
+                top: 224px;
+                left: 200px;
+                }
+
+                .AL{
+                    position: absolute;
+                    top: 106px;
+                    right: 90px;
+                 }
+                
+                 .AL2{
+                    position: absolute;
+                    top: 132px;
+                    right: 90px;
+                 }
+                
+                 .AL3{
+                    position: absolute;
+                    top: 155px;
+                    right: 90px;
+                 }
+                
+                
+                 .INTE{
+                    position: absolute;
+                    top: 180px;
+                    right: 90px;
+                 }
+                
+                
+                 .INTE2{
+                    position: absolute;
+                    top: 205px;
+                    right: 90px;
+                 }
+
+                 input[type="submit"] {
+                    width: 150px;
+                    height: 30px;
+                    border: 2px solid #fc8bcd;
+                    background-color: #f7a6d5;
+                    border-radius: 5px;
+                    padding: 5px;
+                    font-size: 16px;
+                    
+                  }
+          
+          
+                  input[type="email"] {
+                    width: 170px;
+                    height: 15px;
+                    border: 2px solid #fc8bcd;
+                    background-color: #f7a6d5;
+                    border-radius: 5px;
+                    padding: 5px;
+                    font-size: 16px;
+                  }
+          
+                  textarea{
+                      width: 170px;
+                    height: 40px;
+                    border: 2px solid #fc8bcd;
+                    background-color: #f7a6d5;
+                    border-radius: 5px;
+                    padding: 5px;
+                    font-size: 16px;
+                  }
